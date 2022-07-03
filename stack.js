@@ -32,6 +32,4 @@ class Stack {
 let stack = new Stack();
 stack.add(23);
 stack.add(43);
-console.log(stack.clear());
-console.log(stack.peek());
 console.log(stack.size());
